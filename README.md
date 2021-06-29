@@ -1,5 +1,4 @@
-### Hi there 👋
-### Making my way into the world of 1s and 0s.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heemankv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
