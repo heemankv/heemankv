@@ -8,11 +8,6 @@ Previously: full-stack & smart contracts at [Timeswap](https://timeswap.io) ($15
 
 6x hackathon winner across EthGlobal, EthIndia, Polygon, Solana & MANTRA.
 
----
-
-**Currently building:** Rust Execution Pipeline — 10x speedup bypassing Cairo VM, validated on Paradex devnet.
-
----
 
 #### What I work with
 
