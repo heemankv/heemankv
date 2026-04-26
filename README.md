@@ -2,7 +2,7 @@
 
 **Blockchain engineer. Startup nerd. Optimist, building things people use.**
 
-Systems Engineer at [Karnot.xyz](https://karnot.xyz) — core contributor to [Madara](https://github.com/madara-alliance/madara), the Rust-based Starknet sequencer powering [Paradex](https://paradex.trade). 119+ PRs merged.
+Systems Engineer at [Karnot.xyz](https://karnot.xyz) — core contributor to [Madara](https://github.com/madara-alliance/madara), the Rust-based Starknet sequencer.
 
 Previously: full-stack & smart contracts at [Timeswap](https://timeswap.io) ($15M TVL) · founding tech at [Respct.io](https://respct.io) ($475K pre-seed, 5K+ NFTs) · co-founded [CrappyPresentations](https://crappypresentations.com).
 
