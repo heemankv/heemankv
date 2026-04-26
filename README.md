@@ -1,5 +1,3 @@
-<img align="right" src="portrait.jpg" width="200" />
-
 ### Hey, I'm Heemank
 
 **Blockchain engineer. Startup nerd. Optimist, building things people use.**
